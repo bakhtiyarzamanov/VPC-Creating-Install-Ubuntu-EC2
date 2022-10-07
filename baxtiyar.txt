@@ -1,0 +1,13 @@
+Task 1. 
+Creating an Ubuntu EC2
+•	I created an EC2 instance with Ubunutu AMI in my VPC   
+•	In  VSCode I connected to my EC2 instance using my key pair
+Installing Tools in Ubuntu EC2
+•	I typed sudo apt update -y in VSCode gitbash
+•	Then I typed sudo apt install tree -y in VSCode gitbash
+•	I installed Docker, Git and Tree
+
+Task 2. 
+ Arcana Web Application Setup
+•	create a launch template with Ubuntu AMI
+•	create Auto Scaling Group
