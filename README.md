@@ -198,7 +198,6 @@ Next, I created a CloudWatch Alarm in CloudWatch. And then I add SNS to my Cloud
 22.	And create an Alarm 
 
 
-Baxtiyar
 
 
 
